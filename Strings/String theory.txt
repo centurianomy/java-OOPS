@@ -1,0 +1,9 @@
+						//Comparing two strings
+
+
+/*There are three ways by which strings can be compared
+1. using [equals()] method for authentication.
+2. using [==] operator for reference matching.
+3. using [compareTo()] method for sorting.
+
+ */
