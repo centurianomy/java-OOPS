@@ -20,7 +20,7 @@ public class Name
 
 
 
-
+//string is immutable for memory efficiency.
 
 /* String is an object itself 
 	String object can be created bye two ways: string literal and new keyword
