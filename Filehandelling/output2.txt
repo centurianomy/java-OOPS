@@ -1,0 +1,5 @@
+									//output2.txt
+
+This is from output.txt file 2
+You are reading from there
+

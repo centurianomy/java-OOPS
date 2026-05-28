@@ -1,0 +1,3 @@
+Here we will write and read the file in one.
+Human is God sleeping and God is human awake.
+Powerful quote isn't it ?
