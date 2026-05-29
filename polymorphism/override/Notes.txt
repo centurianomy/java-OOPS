@@ -1,0 +1,19 @@
+Methods (overriding)
+    -Compile time checks ref type
+    -Runtime checks obj type
+
+jis method ko call krre h agr vo hi parent class m nhi h toh compile time error.
+
+var calling-> jiska ref uska var print.
+
+Parent p = new Child(); valid
+Child c = new Parent(); now allowed 
+
+upcasting:
+    A a = new B(); --> upcasting
+        i.e ref of parent + obj of child
+
+Downcasting:
+
+
+   
